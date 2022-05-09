@@ -31,7 +31,7 @@ Data engineering processes and converts the data set from Chinese texts to word 
 
 - **Data Proprocessing**
   - Segmente into tokens
-  - Remove punctuation, stopwords, etc by [LTP]().
+  - Remove punctuation, stopwords, etc by [LTP](https://github.com/HIT-SCIR/ltp).
 - **Label Proprocessing**
   - Label Analysis
   - Label Statistic
@@ -63,4 +63,4 @@ This work aims to observe the different attention value words' influence on the 
 
 # Examples on Colabs.
 
-Classification, Word Matching and Attention Value calcuction tasks are avaiable on Colab.
+Classification, Word Matching and Attention Value calcuction tasks are available on Colab.
