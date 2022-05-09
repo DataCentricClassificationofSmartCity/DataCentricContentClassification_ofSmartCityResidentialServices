@@ -36,10 +36,10 @@ Data engineering processes and converts the data set from Chinese texts to word 
   - Label Analysis
   - Label Statistic
 - **Word Embedding and Vectorization**
-  - Word embedding by Word2Vec
-  - Word embedding by Fasttext
-  - Word embedding by Bert
-  - Word embedding by XLNet
+  - Word embedding by [Word2Vec](https://github.com/loretoparisi/word2vec)
+  - Word embedding by [Fasttext](https://github.com/facebookresearch/fastText)
+  - Word embedding by [Bert](https://github.com/google-research/bert)
+  - Word embedding by [XLNet](https://github.com/zihangdai/xlnet)
  
 Due to the privacy, the dataset is provided in a tokenization format. Which is after word embedding and vectorization processing.
 
