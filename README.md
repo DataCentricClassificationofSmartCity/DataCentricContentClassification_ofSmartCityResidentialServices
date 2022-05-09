@@ -35,7 +35,7 @@ Data engineering processes and converts the data set from Chinese texts to word 
 - **Label Proprocessing**
   - Label Analysis
   - Label Statistic
-- ** Word Embedding and Vectorization**
+- **Word Embedding and Vectorization**
   - Word embedding by Word2Vec
   - Word embedding by Fasttext
   - Word embedding by Bert
@@ -45,8 +45,18 @@ Due to the privacy, the dataset is provided in a tokenization format. Which is a
 
 # Classification Models
 
-The classifiction Models in this work are ResNet, Transformer and XLNet. In Transformer, we choose two strategries named base-transformer(3 Encoder-Decoder Layers) and enlarged-transformer (6 Encoder-Decoder Layers with a cross-layer sharing parameter group).
+The classifiction Models in this work are ResNet, Transformer and XLNet. In Transformer, we choose two strategries named based transformer(3 Encoder-Decoder Layers) and enlarged-transformer (6 Encoder-Decoder Layers with a cross-layer sharing parameter group).
 
 - **[ResNet](https://github.com/KaimingHe/deep-residual-networks)**
 - **[Transformer](https://github.com/huggingface/transformers)**
+  - Based Transformer
+  - Enlarged Transformer
 - **[XLNet](https://github.com/zihangdai/xlnet)**
+
+# Word Matching
+
+Word matching is a workflow that covert the request and department natural language to tokens and place as a pair (X,Y) to train the transformer model. And The model will learn to generate a sentence in a token format aiming at the department. This sentence is then to fuzzy matching with the department in the dataset. Comparied for the classification, the training pair (X,Y) is request and the classes label index.
+
+# Attention Value Calcluction
+
+This work aims to observe the different attention value words' influence on the decision of the transformer based model. After calculating the attention value of each words, low attention words are masked to do the prediction of the model. 
