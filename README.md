@@ -60,3 +60,7 @@ Word matching is a workflow that covert the request and department natural langu
 # Attention Value Calcluction
 
 This work aims to observe the different attention value words' influence on the decision of the transformer based model. After calculating the attention value of each words, low attention words are masked to do the prediction of the model. 
+
+# Examples on Colabs.
+
+Classification, Word Matching and Attention Value calcuction tasks are avaiable on Colab.
