@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e3950871-8dde-4305-a984-2c072bfd538c" name="Default Changelist" comment="Initial Commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <list id="d7b3d847-d2c3-4ce1-92e3-1c42e4a49e22" name="Revert &quot;Revert &quot;Revert &quot;Initial Commit&quot;&quot;&quot;" comment="Revert &quot;Revert &quot;Revert &quot;Initial Commit&quot;&quot;&quot;&#10;&#10;This reverts commit e1441586">
+      <change beforePath="$PROJECT_DIR$/.idea/DataCentricContentClassificationofSmartCityResidentialServices.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classification_Models/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classification_Models/training/XLNet_data_processing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classification_Models/training/XLNet_fine_tune.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classification_Models/training/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classification_Models/training/resnet_training.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classification_Models/training/transformer_dataloader.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classification_Models/training/transformer_framework.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classification_Models/training/transformer_layers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classification_Models/training/transformer_model.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classification_Models/training/transformer_training.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classification_Models/training/transformer_utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data_Engineering/Label_PreProcessing/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data_Engineering/Label_PreProcessing/label_analysis.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data_Engineering/Label_PreProcessing/label_statistic.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data_Engineering/Word_Embedding/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data_Engineering/Word_Embedding/create_dataset.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data_Engineering/Word_Embedding/training.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data_Engineering/Word_Embedding/utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data_Engineering/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data_Engineering/create_dataset.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Word_Match/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Word_Match/dataset/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Word_Match/dataset/create_dataset.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Word_Match/dataset/sequence_label_dataloader.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Word_Match/dataset/utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Word_Match/evaluation/match_class.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Word_Match/src/attention_threshold.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Word_Match/src/train.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Word_Match/transformer/decoder.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Word_Match/transformer/seq_label_transformer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Word_Match/transformer/torch_transformer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Word_Match/transformer/utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/create_index_datasets.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pipeline/nlpsd-dataset.pv.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pipeline/nlpsd-dataset.pvc.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pipeline/nlpsd-output.pv.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pipeline/nlpsd-output.pvc.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pipeline/seq.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/ResNet/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/ResNet/classification_report.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/ResNet/confusion_matrix.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/Transformer/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/Transformer/classification_report.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/Transformer/confusion_matrix.jpg" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
+  </component>
+  <component name="ProjectId" id="29EQ2msW9szcaetrUKkpahADx44" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e3950871-8dde-4305-a984-2c072bfd538c" name="Default Changelist" comment="" />
+      <created>1652675560472</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652675560472</updated>
+      <workItem from="1652675573196" duration="4410000" />
+      <workItem from="1652813918162" duration="12060000" />
+      <workItem from="1653679619075" duration="1615000" />
+      <workItem from="1653681589460" duration="1580000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initial Commit">
+      <created>1652675654328</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1652675654328</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Initial Commit">
+      <created>1652675702635</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1652675702638</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Initial Commit">
+      <created>1653667044607</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1653667044607</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Initial Commit">
+      <created>1653674587759</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1653674587762</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Initial Commit">
+      <created>1653675025167</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1653675025167</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Initial Commit">
+      <created>1653680662287</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1653680662287</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
+  </component>
+</project>
